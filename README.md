@@ -13,10 +13,10 @@ En aquest repository podrás trobar:
 3-Arxiu html de la llibreta de R (hotel_bookings.html)
 
 
-4-Arxiu de Power B1
+4-Arxiu de Power B1 (PAC_3_VIisualizacion.pbix)
 
 
-5- Imatge model Power BI
+5- Imatge model dades Power BI (model_pac3.png)
 
 
 6- Dataset hotel_bookings original ((hotel_bookings.csv)

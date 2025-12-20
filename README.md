@@ -25,3 +25,6 @@ En aquest repository podrás trobar:
 7- Dataset hotel_bookings deesprés de la neteja amb R (hotel_bookings_limpio.csv)
 
 
+8- Dataset auxiliar per aconseguir nom de Paisos. dim_pais.csv
+
+
